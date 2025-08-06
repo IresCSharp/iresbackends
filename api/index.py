@@ -22,9 +22,9 @@ app = Flask(__name__)
 playfab_cache = {}
 mute_cache = {}
 
-settings.TitleId: str = "17B884"
-settings.SecretKey: str = "7TU4UMXA3R4WAQJBEON5S1G47I7EUBIP3DPCSGOP67CPPGNGW6"
-settings.ApiKey: str = "OC|7827748027319830|9e03194a2f0b31991c313b053b326077"
+settings.TitleId: str = "11E2A6"
+settings.SecretKey: str = "7AG1XTXDJGW73XCBE9RCANFFZCR8CWEB9BYAJZKMRDM6J4G5I1"
+settings.ApiKey: str = "OC|9301667253266192|373ced6773f8a291f873a3fb3ba0539d"
 
 
 def return_function_json(data, funcname, funcparam={}):
